@@ -1,3 +1,11 @@
 object camion {
 
 }
+
+object bicicleta{
+    
+}
+
+
+
+

@@ -1,3 +1,9 @@
 object cosas {
-    
+    const listaDeObjetos = [] 
 }
+
+
+
+
+
+
